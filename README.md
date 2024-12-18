@@ -17,7 +17,7 @@ Relationship Anarchy Logo: <https://www.clipartmax.com/middle/m2i8N4A0A0d3d3K9_r
 
 #### Thingiverse
 
-<https://thingiverse.com/thing:>
+<https://thingiverse.com/thing:6877554>
 
 #### GitHub
 
